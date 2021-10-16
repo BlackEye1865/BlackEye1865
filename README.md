@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BlackEye1865
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning javascript/css/html python and php
+- 📫 if you want to contact with me my email is BlackEye1865@protonmail.com
